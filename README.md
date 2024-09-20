@@ -11,9 +11,6 @@ Fullstack open source movie application made with MongoDB, Express, React & Node
       - [Database](#database)
       - [API](#api)
   * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
-
 ## Configuration and Setup
 
 In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
